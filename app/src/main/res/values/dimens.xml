@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="category_margin">4dp</dimen>
+    <dimen name="articleItem_height">154dp</dimen>
+    <dimen name="articleImage_size">154dp</dimen>
+    <dimen name="articleItem_margin">4dp</dimen>
+    <dimen name="articleItemDescription_marginTop">10dp</dimen>
+    <dimen name="articleTitle_textSize">15dp</dimen>
+    <dimen name="newsButton_textSize">28dp</dimen>
+    <dimen name="newsButton_margin">3dp</dimen>
+</resources>
